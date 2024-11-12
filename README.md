@@ -6,7 +6,6 @@ The Heart and Diabetes Prediction Model is a machine learning project designed t
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Model Training](#model-training)
@@ -24,10 +23,6 @@ The Heart and Diabetes Prediction Model is a machine learning project designed t
 - Scikit-learn
 - Matplotlib
 - Seaborn
-
-Clone the repository:
-   ```bash
-   git clone https://github.com/saurabhisane/Heart-and-Diabetes-Prediction-model.git
 
 ## Usage
 Ensure that your Python environment is set up correctly with the dependencies installed.
