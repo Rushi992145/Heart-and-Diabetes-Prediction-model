@@ -28,15 +28,15 @@ The Heart and Diabetes Prediction Model is a machine learning project designed t
 Ensure that your Python environment is set up correctly with the dependencies installed.
 Run the Jupyter notebook heart_diabetes_prediction.ipynb to train and test the prediction models.
 You can use the predict.py script for single predictions, where you can input values and get the result for heart disease or diabetes prediction.
-Model Overview
-This project utilizes different machine learning models to predict heart disease and diabetes based on the given dataset. The models used are:
 
-##Logistic Regression
-Support Vector Machine (SVM)
-Random Forest
+## Model Overview
+This project utilizes different machine learning models to predict heart disease and diabetes based on the given dataset. The models used are:
+-Logistic Regression
+-Support Vector Machine (SVM)
+-Random Forest
 Each model is trained and tested on the dataset to find the best-performing model.
 
-##Project Structure
+## Project Structure
 data/: Contains the dataset used for training.
 notebooks/: Jupyter notebooks for data exploration and model training.
 scripts/: Python scripts for running the models and making predictions.
